@@ -9,6 +9,9 @@ Mission Learning Statement
 Project Blackbox is a foundational local agent that converts user intent into executable system actions,
 with guardrails around command generation, feedback, and retry flows.
 
+## Historical Note
+- `martin.py` is the original agentic commit from Oct 2023.
+
 ## Quickstart
 ```bash
 python martin.py
